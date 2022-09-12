@@ -1,0 +1,16 @@
+.container :nth-child(1) {
+    color:red;
+}
+.container :nth-child(2) {
+    color:green;
+}.container :nth-child(3) {
+    color:blue;
+}.container :nth-child(4) {
+    color:lightgray;
+}.container :nth-child(5) {
+    color:rgb(66, 53, 53);
+}
+.container  {
+    transform: translate(50%,50%);
+font-size: 10vw;
+}
